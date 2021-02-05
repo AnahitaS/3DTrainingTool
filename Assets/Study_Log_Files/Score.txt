@@ -1,0 +1,140 @@
+Participant ID: P90
+Participant ID: P190
+Participant ID: Ptest
+Participant ID: Ptest
+Participant ID: Ptest
+2018/04/06 11:48:02, Score up to level 1 Task 1 is: 100
+2018/04/06 11:48:09, Score up to level 1 Task 2 is: 200
+2018/04/06 11:48:14, Score up to level 1 Task 3 is: 300
+2018/04/06 11:58:55, Score up to level 2 Task 1 is: 300
+2018/04/06 11:59:03, Score up to level 2 Task 1 is: 400
+2018/04/06 11:59:26, Score up to level 2 Task 2 is: 400
+2018/04/06 12:04:08, Score up to level 3 Task is: 400
+Participant ID: Ptest
+2018/04/06 13:44:05, Score up to level 1 Task 1 is: 100
+2018/04/06 13:44:11, Score up to level 1 Task 2 is: 200
+2018/04/06 13:44:15, Score up to level 1 Task 3 is: 300
+2018/04/06 13:57:51, Score up to level 2 Task 1 is: 400
+2018/04/06 13:58:02, Score up to level 2 Task 2 is: 500
+2018/04/06 14:07:16, Score up to level 3 Task is: 600
+Participant ID: Ptest
+2018/04/06 17:45:16, Score up to level 1 Task 1 is: 100
+2018/04/06 17:45:25, Score up to level 1 Task 2 is: 200
+2018/04/06 17:45:32, Score up to level 1 Task 3 is: 300
+2018/04/06 17:54:15, Score up to level 2 Task 1 is: 400
+2018/04/06 17:54:41, Score up to level 2 Task 2 is: 500
+2018/04/06 18:02:47, Score up to level 3 Task is: 600
+Participant ID: P10
+2018/05/15 18:18:13, Score up to level 1 Task 1 is: 0
+2018/05/15 18:18:17, Score up to level 1 Task 2 is: 0
+Participant ID: P
+2018/05/30 13:10:55, Score up to level 1 Task 1 is: 0
+2018/05/30 13:10:56, Score up to level 1 Task 1 is: 0
+2018/05/30 13:10:58, Score up to level 1 Task 1 is: 0
+2018/05/30 13:11:03, Score up to level 1 Task 1 is: 100
+2018/05/30 13:11:13, Score up to level 1 Task 2 is: 200
+2018/05/30 13:11:19, Score up to level 1 Task 3 is: 300
+2018/05/30 13:11:37, Score up to level 2 Task 1 is: 300
+2018/05/30 13:11:41, Score up to level 2 Task 1 is: 400
+Participant ID: P
+Participant ID: P
+Participant ID: P
+Participant ID: P123
+Participant ID: P
+2018/06/03 18:30:40, Score up to level 1 Task 1 is: 100
+2018/06/03 18:30:42, Score up to level 1 Task 2 is: 100
+2018/06/03 18:30:47, Score up to level 1 Task 2 is: 200
+2018/06/03 18:30:49, Score up to level 1 Task 3 is: 200
+2018/06/03 18:30:52, Score up to level 1 Task 3 is: 300
+2018/06/03 18:30:54, Score up to level 2 Task 1 is: 300
+2018/06/03 18:30:59, Score up to level 2 Task 1 is: 400
+2018/06/03 18:31:03, Score up to level 2 Task 2 is: 400
+2018/06/03 18:31:39, Score up to level 3 Task is: 400
+Participant ID: P
+2018/06/03 18:32:05, Score up to level 1 Task 1 is: 0
+2018/06/03 18:32:07, Score up to level 1 Task 1 is: 0
+2018/06/03 18:32:10, Score up to level 1 Task 1 is: 100
+2018/06/03 18:32:15, Score up to level 1 Task 2 is: 200
+2018/06/03 18:32:19, Score up to level 1 Task 3 is: 300
+2018/06/03 18:32:28, Score up to level 2 Task 1 is: 400
+2018/06/03 18:32:31, Score up to level 2 Task 2 is: 400
+2018/06/03 18:33:29, Score up to level 3 Task is: 400
+2018/06/03 18:34:00, Score up to level 3 Task is: 500
+2018/06/03 18:37:00, Score up to level 3 Task is: 600
+Participant ID: P
+2018/06/03 18:41:29, Score up to level 1 Task 1 is: 100
+2018/06/03 18:41:35, Score up to level 1 Task 2 is: 200
+2018/06/03 18:41:37, Score up to level 1 Task 3 is: 200
+2018/06/03 18:41:40, Score up to level 1 Task 3 is: 300
+2018/06/03 18:41:47, Score up to level 2 Task 1 is: 400
+2018/06/03 18:41:50, Score up to level 2 Task 2 is: 400
+2018/06/03 18:44:38, Score up to level 3 Task is: 500
+2018/06/03 18:48:07, Score up to level 3 Task is: 600
+Participant ID: P
+2018/06/03 19:15:36, Score up to level 1 Task 1 is: 0
+2018/06/03 19:15:37, Score up to level 1 Task 1 is: 0
+2018/06/03 19:15:44, Score up to level 1 Task 1 is: 100
+2018/06/03 19:15:46, Score up to level 1 Task 2 is: 100
+2018/06/03 19:15:53, Score up to level 1 Task 2 is: 200
+2018/06/03 19:15:54, Score up to level 1 Task 3 is: 200
+2018/06/03 19:15:58, Score up to level 1 Task 3 is: 200
+2018/06/03 19:16:01, Score up to level 1 Task 3 is: 300
+2018/06/03 19:16:05, Score up to level 2 Task 1 is: 300
+2018/06/03 19:16:16, Score up to level 2 Task 1 is: 400
+2018/06/03 19:16:27, Score up to level 2 Task 2 is: 400
+Participant ID: P
+2018/06/03 19:18:28, Score up to level 1 Task 1 is: 0
+2018/06/03 19:18:32, Score up to level 1 Task 1 is: 100
+Participant ID: P
+2018/06/03 22:33:04, Score up to level 1 Task 1 is: 0
+2018/06/03 22:33:07, Score up to level 1 Task 1 is: 100
+2018/06/03 22:33:12, Score up to level 1 Task 2 is: 100
+2018/06/03 22:33:16, Score up to level 1 Task 2 is: 100
+2018/06/03 22:33:22, Score up to level 1 Task 2 is: 200
+2018/06/03 22:33:26, Score up to level 1 Task 3 is: 300
+2018/06/03 22:33:34, Score up to level 2 Task 1 is: 400
+2018/06/03 22:33:36, Score up to level 2 Task 2 is: 400
+2018/06/03 22:34:16, Score up to level 3 Task is: 500
+2018/06/03 22:36:48, Score up to level 3 Task is: 600
+Participant ID: P
+2018/09/13 12:44:35, Score up to level 1 Task 1 is: 0
+2018/09/13 12:44:41, Score up to level 1 Task 1 is: 0
+2018/09/13 12:44:48, Score up to level 1 Task 1 is: 100
+2018/09/13 13:05:08, Score up to level 1 Task 2 is: 200
+2018/09/13 13:05:14, Score up to level 1 Task 3 is: 300
+2018/09/13 13:05:17, Score up to level 2 Task 1 is: 300
+2018/09/13 13:05:22, Score up to level 2 Task 1 is: 400
+2018/09/13 13:05:25, Score up to level 2 Task 2 is: 400
+Participant ID: CHI_2019
+Participant ID: CHI_2019
+2018/09/21 07:00:00, Score up to level 1 Task 3 is: 0
+2018/09/21 07:00:04, Score up to level 1 Task 3 is: 100
+2018/09/21 07:00:13, Score up to level 2 Task 2 is: 100
+2018/09/21 07:00:18, Score up to level 3 Task is: 100
+2018/09/21 07:00:21, Score up to level 3 Task is: 100
+2018/09/21 07:00:26, Score up to level 3 Task is: 100
+Participant ID: CHI_2019
+2018/09/21 07:02:55, Score up to level 1 Task 3 is: 100
+2018/09/21 07:02:58, Score up to level 1 Task 3 is: 100
+2018/09/21 07:03:02, Score up to level 1 Task 3 is: 200
+2018/09/21 07:03:07, Score up to level 2 Task 2 is: 200
+2018/09/21 07:03:22, Score up to level 3 Task is: 200
+Participant ID: CHI_2019
+2018/09/21 07:04:33, Score up to level 1 Task 3 is: 0
+2018/09/21 07:04:36, Score up to level 1 Task 3 is: 100
+2018/09/21 07:04:39, Score up to level 1 Task 3 is: 100
+2018/09/21 07:04:41, Score up to level 1 Task 3 is: 200
+2018/09/21 07:04:49, Score up to level 2 Task 2 is: 200
+2018/09/21 07:04:52, Score up to level 2 Task 2 is: 200
+2018/09/21 07:04:55, Score up to level 3 Task is: 200
+Participant ID: CHI_2019
+2018/09/21 07:13:32, Score up to level 1 Task 3 is: 100
+2018/09/21 07:13:37, Score up to level 1 Task 3 is: 100
+2018/09/21 07:13:38, Score up to level 1 Task 3 is: 100
+2018/09/21 07:13:39, Score up to level 1 Task 3 is: 200
+2018/09/21 07:14:00, Score up to level 2 Task 2 is: 200
+Participant ID: CHI_2019
+2018/10/03 10:25:39, Score up to level 1 Task 3 is: 100
+2018/10/03 10:25:47, Score up to level 2 Task 2 is: 100
+Participant ID: CHI_2019
+Participant ID: CHI_2019
