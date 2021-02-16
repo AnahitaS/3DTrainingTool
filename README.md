@@ -1,4 +1,4 @@
-# 3D TrainingTool Demo
+# An Interactive Training Game to Enhance 3D Spatial Skills
 ### Objective: 
 Developing and validating a novel domain-agnostic, computer-based training game in Unity for enhancing 2D cross-section understanding of complex 3D structures. 
 
