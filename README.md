@@ -1,4 +1,4 @@
-# 3DTrainingTool Demo
+# 3D TrainingTool Demo
 ### Objective: 
 Developing and validating a novel domain-agnostic, computer-based training game in Unity for enhancing 2D cross-section understanding of complex 3D structures. 
 
